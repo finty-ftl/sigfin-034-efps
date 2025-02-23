@@ -5,7 +5,7 @@
 1. **リポジトリをクローン**  
 ```bash
 git clone https://github.com/finty-ftl/sigfin-034-efps.git
-cd sigfin-034-efps
+cd sigfin-034-efps/case_app
 ```
 
 2. **依存パッケージのインストール**
