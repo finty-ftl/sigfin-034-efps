@@ -1,0 +1,1 @@
+// Remove middleware.ts since it's not compatible with static export

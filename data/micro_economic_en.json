@@ -1,0 +1,122 @@
+[
+  {
+    "number": 0,
+    "question": "How much is the monthly food expense per person in an average Japanese household?"
+  },
+  {
+    "number": 1,
+    "question": "How much does an urban office worker spend on commuting in one year?"
+  },
+  {
+    "number": 2,
+    "question": "How much does a single department of 10 employees spend on meeting costs in one year?"
+  },
+  {
+    "number": 3,
+    "question": "What is the average annual medical expense paid by a 40-year-old Japanese man?"
+  },
+  {
+    "number": 4,
+    "question": "How much is the monthly electricity bill for an office with 100 employees?"
+  },
+  {
+    "number": 5,
+    "question": "What is the average amount a Japanese person spends on a single domestic trip?"
+  },
+  {
+    "number": 6,
+    "question": "How much is the average cost for a mid-sized company to hire one new graduate employee?"
+  },
+  {
+    "number": 7,
+    "question": "How much does a Japanese person spend on shoes over a lifetime?"
+  },
+  {
+    "number": 8,
+    "question": "How much is the initial cost for advertising and promoting a new product?"
+  },
+  {
+    "number": 9,
+    "question": "How much does a company with 100 employees spend on bottled beverages in one year?"
+  },
+  {
+    "number": 10,
+    "question": "How much is the total amount a 100-employee company spends on employee benefits in one year?"
+  },
+  {
+    "number": 11,
+    "question": "What is the total annual travel expense for a company whose employees frequently travel on business?"
+  },
+  {
+    "number": 12,
+    "question": "How much does a mid-sized manufacturing company spend on waste disposal in one year?"
+  },
+  {
+    "number": 13,
+    "question": "What is the total amount a company with 50 employees pays for insurance in one year?"
+  },
+  {
+    "number": 14,
+    "question": "How much does a particular Starbucks store near Shinjuku Station earn in one day?"
+  },
+  {
+    "number": 15,
+    "question": "How much does a takoyaki shop in Dotonbori, Osaka sell in one month?"
+  },
+  {
+    "number": 16,
+    "question": "How much does a popcorn stand in Tokyo Disneyland sell in one day?"
+  },
+  {
+    "number": 17,
+    "question": "How much does a ramen shop near Sapporo Station sell in a single weekend day?"
+  },
+  {
+    "number": 18,
+    "question": "How much does a bookstore inside Haneda Airport earn from book sales in one day?"
+  },
+  {
+    "number": 19,
+    "question": "How much does a fast-food restaurant near Shibuya Scramble Crossing sell in one month?"
+  },
+  {
+    "number": 20,
+    "question": "How much does a souvenir shop in a tourist area of Kyoto earn in one year?"
+  },
+  {
+    "number": 21,
+    "question": "How much does a cafe chain store in Tenjin, Fukuoka City earn in one day?"
+  },
+  {
+    "number": 22,
+    "question": "How much does a bar in Roppongi earn on a Friday night?"
+  },
+  {
+    "number": 23,
+    "question": "How much does a beef tongue specialty restaurant near Sendai Station earn during lunch time in one day?"
+  },
+  {
+    "number": 24,
+    "question": "How much does a high-end sushi restaurant in Ginza earn in one weekend day?"
+  },
+  {
+    "number": 25,
+    "question": "How much does a udon restaurant near Hakata Station earn in one week?"
+  },
+  {
+    "number": 26,
+    "question": "How much does a bakery in Kobe City earn from bread sales in one day?"
+  },
+  {
+    "number": 27,
+    "question": "How much does a souvenir shop near Kiyomizu-dera in Kyoto earn per day during the autumn foliage season (mid-November)?"
+  },
+  {
+    "number": 28,
+    "question": "How much does a sports goods store in Karuizawa Prince Shopping Plaza earn in one month during the summer vacation period (August)?"
+  },
+  {
+    "number": 29,
+    "question": "What is the daily revenue of a single Ramen shop in Sapporo?"
+  }
+]
